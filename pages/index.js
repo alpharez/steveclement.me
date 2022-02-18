@@ -38,6 +38,10 @@ export default function Home() {
         <Link href="/posts/stunnel1">
           <a>Adventures with stunnel </a>
         </Link>
+
+        <Link href="/posts/pcissue1-1">
+            <a>Never Ending PC Problem</a>
+        </Link>
         
       </section>
     </Layout>

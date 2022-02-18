@@ -38,7 +38,7 @@ export default function Home() {
         <Link href="/posts/stunnel1">
           <a>Adventures with stunnel </a>
         </Link>
-
+        <br />
         <Link href="/posts/pcissue1-1">
             <a>Never Ending PC Problem</a>
         </Link>

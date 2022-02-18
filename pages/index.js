@@ -15,26 +15,6 @@ export default function Home() {
         &nbsp;<Link href="https://github.com/alpharez"><a>Github</a></Link>. If you're interested: <Link href="/posts/cv"><a>CV</a></Link></p>
 
         <h3>Blog Posts</h3>
-        <Link href="/posts/pcissue">
-          <a>The PC Hardware Problem..., Part 1</a>
-        </Link>
-        <br/>
-        <Link href="/posts/pcissue2">
-            <a>The PC Hardware Problem..., Part 2</a>
-        </Link>
-        <br/>
-        <Link href="/posts/pcissue3">
-            <a>PC Still go Thunk!, Part 3</a>
-        </Link>
-        <br/>
-        <Link href="/posts/pcissue4">
-            <a>PC go Thunk!, Part 4 New Power Supply</a>
-        </Link>
-        <br/>
-        <Link href="/posts/pcissue5">
-            <a>PC not go Thunk! anymore... yay</a>
-        </Link>
-        <br />
         <Link href="/posts/stunnel1">
           <a>Adventures with stunnel </a>
         </Link>

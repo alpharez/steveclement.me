@@ -14,7 +14,7 @@ export default function Home() {
         <p>I am interested in Crypto/web3 projects as a dev or network/security engineer.  Contact methods <Link href="https://twitter.com/steve3279"><a>Twitter</a></Link> and
         &nbsp;<Link href="https://github.com/alpharez"><a>Github</a></Link>. If you're interested: <Link href="/posts/cv"><a>CV</a></Link></p>
 
-        <h3>Blog Posts</h3a
+        <h3>Blog Posts</h3>
 
         <Link href="/posts/lessons1">
           <a>Geniuses provide evidence</a>

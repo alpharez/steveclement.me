@@ -16,6 +16,11 @@ export default function Home() {
 
         <h3>Blog Posts</h3>
 
+        <Link href="/posts/asalogdown">
+          <a>Cisco ASA tcp syslog outage</a>
+        </Link>
+        <br />
+
         <Link href="/posts/lessons1">
           <a>Geniuses provide evidence</a>
         </Link>
